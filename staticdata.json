@@ -1,0 +1,128 @@
+{
+    "Crypto.BTC/USD": {
+        "metadata": {
+            "pyth_id": "",
+            "archive_symbol": "N",
+            "exponent": "",
+            "tick_size": "",
+            "asset_type": "Crypto",
+            "base": "BTC",
+            "description": "BITCOIN / US DOLLAR",
+            "generic_symbol": "BTCUSD",
+            "quote_currency": "USD",
+            "contract_address": "",
+            "dest_chain": "",
+            "is_fiat": "N",
+            "is_crypto": "Y",
+            "peg_to_ccy": "N",
+            "peg_ccy": " N",
+            "max_supply": "21000000",
+            "weekly_schedule": "America/New_York,O,O,O,O,O,O,O"
+        }
+    },
+    "FX.EUR/USD": {
+        "metadata": {
+            "pyth_id": "",
+            "archive_symbol": "N",
+            "exponent": "",
+            "tick_size": "",
+            "asset_type": "FX",
+            "base": "EUR",
+            "description": "EURO / US DOLLAR",
+            "generic_symbol": "EURUSD",
+            "quote_currency": "USD",
+            "tenor": "Spot",
+            "hol_sched_current_year": "25122024,26122024",
+            "hol_sched_next_year": "25122025",
+            "weekly_schedule": "America/New_York,O,O,O,O,00:00-17:00,C,17:00-24:00"
+        }
+    },
+    "Equity.US.AAPL/USD": {
+      "metadata": {
+        "pyth_id": "",
+        "archive_symbol": "N",
+        "exponent": "",
+        "tick_size": "",
+        "asset_type": "Equity",
+        "is_etf": "N",
+        "base": "AAPL",
+        "cms_symbol": "AAPL",
+        "country": "US",
+        "cqs_symbol": "AAPL",
+        "description": "APPLE INC / US DOLLAR",
+        "nasdaq_symbol": "AAPL",
+        "quote_currency": "USD",
+        "max_supply": "",
+        "industry_sector":"",
+        "in_s&p":"",
+        "in_dow":"",
+        "in_russell":"",
+        "dividend_currency":"",
+        "dividend_type":"",
+        "isin":"",
+        "cusip":"",
+        "sedol":"",
+        "hol_sched_current_year": "25122024",
+        "hol_sched_next_year":"25122025",
+        "weekly_schedule": "America/New_York,9:30-16:00,9:30-16:00,9:30-16:00,9:30-16:00,9:30-16:00,C,C"
+      }
+  },
+    "Metal.XAG/USD": {
+        "metadata": {
+            "pyth_id": "",
+            "archive_symbol": "N",
+            "exponent": "",
+            "tick_size": "",
+            "asset_type": "Metal",
+            "base": "XAG",
+            "description": "SILVER / US DOLLAR",
+            "generic_symbol": "XAGUSD",
+            "quote_currency": "USD",
+            "tenor": "Spot",
+            "hol_sched_current_year": "25122024",
+            "hol_sched_next_year":"25122025",
+            "weekly_schedule": "America/New_York,O,O,O,O,00:00-17:00,C,17:00-24:00"
+        }
+    },
+    "Rates.US10": {
+        "metadata": {
+            "pyth_id": "",
+            "archive_symbol": "N",
+            "exponent": "",
+            "tick_size": "",
+            "asset_type": "Rates",
+            "description": "US10 OTR",
+            "generic_symbol": "US10"
+            "quote_currency": "USD",
+            "hol_sched_current_year": "25122024",
+            "hol_sched_next_year":"25122025",
+            "weekly_schedule": ""
+        }
+    },
+    "Commodities.WTI1M": {
+        "metadata": {
+            "pyth_id": "",
+            "archive_symbol": "N",
+            "exponent": "",
+            "tick_size": "",
+            "asset_type": "Commodities",
+            "description": "WTI CRUDE OIL - 1 MONTH",
+            "generic_symbol": ""
+            "quote_currency": "USD",
+            "weekly_schedule": "",
+            "expiry_date": "",
+            "contract_size": "",
+            "exchange": "",
+            "exchange_ticker": "",
+            "units": "",
+            "market": "",
+            "multiplier": "",
+            "first_trade_date": "",
+            "last_trade_date": "",
+            "settlement_date": "",
+            "mic_code":"",
+            "hol_sched_current_year": "25122024",
+            "hol_sched_next_year":"25122025"
+        }
+    }
+}
