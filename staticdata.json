@@ -63,6 +63,9 @@
         "in_russell_2000":"",
         "dividend_currency":"",
         "dividend_type":"",
+        "sedol":"",
+        "cusip":"",
+        "isin":"",  
         "hol_sched_current_year": "25122024",
         "hol_sched_next_year":"25122025",
         "weekly_schedule": "America/New_York,9:30-16:00,9:30-16:00,9:30-16:00,9:30-16:00,9:30-16:00,C,C"
